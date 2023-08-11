@@ -1,0 +1,32 @@
+export default [
+  {
+    category: "Economy",
+    price: "$9.90",
+    billing: "Billing Per Month",
+    bandwidth: "1GB",
+    onlineSpace: "50MB",
+    support: "No",
+    domain: "1 ",
+    hiddenFees: "No ",
+  },
+  {
+    category: "Deluxe",
+    price: "$19.90",
+    billing: "Billing Per Month",
+    bandwidth: "10GB",
+    onlineSpace: "500MB",
+    support: "Yes",
+    domain: "10",
+    hiddenFees: "No ",
+  },
+  {
+    category: "Ultimate",
+    price: "$29.90",
+    billing: "Billing Per Month",
+    bandwidth: "1GB",
+    onlineSpace: "2GB",
+    support: "Yes",
+    domain: "Unlimited",
+    hiddenFees: "No ",
+  },
+];

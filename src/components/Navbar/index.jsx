@@ -19,7 +19,7 @@ function Navbar(e) {
     <div className="navbar-custom" id="navbar">
       <div className="lg:container flex  items-center">
         <a href="/" className="flex lg:ml-0 ml-8">
-          <span className="self-center text-xl font-poppins font-bold tracking-widest whitespace-nowrap uppercase text-white">
+          <span className="self-center text-xl font-poppins font-bold tracking-widest whitespace-nowrap uppercase text-white me-20">
             Dorsin
           </span>
         </a>

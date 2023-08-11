@@ -8,7 +8,7 @@ import Footer from "./container/Footer";
 import { useEffect } from "react";
 import NotFoundPage from "./pages/NotFound";
 import LoginPage from "./pages/LoginPage";
-import SingUpPage from "./SignUpPage";
+import SignUpPage from "./pages/SignUpPage";
 import Password from "./pages/ForgetPassword";
 function App() {
   const { pathname } = useLocation();
@@ -37,7 +37,7 @@ function App() {
         <Route path="/contact" element={<ContactPage />} />
         <Route path="/faq" element={<FAQPage />} />
         <Route path="/login" element={<LoginPage />} />
-        <Route path="/signup" element={<SingUpPage />} />
+        <Route path="/signup" element={<SignUpPage />} />
         <Route path="/password" element={<Password />} />
         <Route path="*" element={<NotFoundPage />} />
       </Routes>

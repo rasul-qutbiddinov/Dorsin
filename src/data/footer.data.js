@@ -2,7 +2,7 @@ const footerData = [
   {
     title: "Information",
     links: [
-      { label: "Home", url: "/home" },
+      { label: "Home", url: "/#home" },
       { label: "About us", url: "/about" },
       { label: "Contact us", url: "/contact" },
     ],

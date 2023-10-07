@@ -1346,12 +1346,12 @@ select{
   background-image: linear-gradient(to right, var(--tw-gradient-stops)) !important;
 }
 .from-purple-900{
-  --tw-gradient-from: #581c87 !important;
-  --tw-gradient-to: rgb(88 28 135 / 0) !important;
+  --tw-gradient-from: #080808 !important;
+  --tw-gradient-to: rgba(7, 7, 7, 0) !important;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to) !important;
 }
 .to-purple-800{
-  --tw-gradient-to: #6b21a8 !important;
+  --tw-gradient-to: #080808 !important;
 }
 .object-cover{
   -o-object-fit: cover !important;

@@ -8,7 +8,7 @@ const Header = ({ title, text }) => {
           src="assets/images/bg-home.jpg"
           alt="build your website image"
         />
-        <div className="absolute inset-0 w-full h-full bg-gradient-to-r from-purple-900 to-purple-800 opacity-90" />
+        <div className="absolute inset-0 w-full h-full bg-gradient-to-r from-purple-900 to-purple-100 opacity-90" />
       </div>
       <div className="container">
         <div className="flex justify-center">

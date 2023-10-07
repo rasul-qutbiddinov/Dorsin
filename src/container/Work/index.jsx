@@ -5,11 +5,11 @@ import workData from "../../data/work.data";
 
 function Work() {
   return (
-    <section className="bg-gray-50 dark:bg-zinc-900/30">
+    <section className="bg-gray-50 dark:bg-zinc-900/30" id="project">
       <div className="container">
         <div className="flex justify-center">
           <Title
-            title="WORK PROCESS"
+            title="project"
             text="
                 The Big Oxmox advised her
                 not to do so, because there were thousands of 

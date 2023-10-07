@@ -33,7 +33,7 @@ function ServiceAboutPage() {
                 href="page-contact.html"
                 className="btn border text-red-500 border-red-500 hover:bg-red-500 hover:text-white mt-4"
               >
-                <i className="mdi mdi-phone" /> Contact Us
+                <i className="mdi mdi-phone" href="contact" /> Contact Us
               </a>
             </div>
           </div>

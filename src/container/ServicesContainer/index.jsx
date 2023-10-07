@@ -4,7 +4,7 @@ import servicesData from "../../data/services.data";
 
 function ServicesContainer() {
   return (
-    <section id="services">
+    <section id="service">
       <div className="container">
         <Title
           title="OUR SERVICE"

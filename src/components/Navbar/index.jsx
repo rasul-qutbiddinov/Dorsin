@@ -47,8 +47,8 @@ function Navbar(e) {
             id="navbar-navlist"
           >
             {navbarData.map((item, index) => (
-              <li key={index}>
-                <HashLink to={item.href} className="nav-item">
+              <li  key={index}>
+                <HashLink to={item.href} className="nav-item text-white">
                   {item.label}
                 </HashLink>
               </li>

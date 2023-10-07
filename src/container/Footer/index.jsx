@@ -53,19 +53,8 @@ function Footer() {
       </section>
       <footer className="bg-gray-800 dark:bg-zinc-900/60 py-5">
         <div className="container">
-          <div className="grid grid-cols-1 lg:grid-cols-3 items-center gap-6">
-            <div className="col-span-2">
-              <div className="text-sm text-gray-400 dark:text-gray-300/60">
-                © Dorsin - <a href="#">Themesbrand</a>
-              </div>
-            </div>
-            <div className="ltr:lg:ml-auto rtl:lg:mr-auto">
-              <img
-                src="assets/images/payment.png"
-                alt="payment-img"
-                className="h-9"
-              />
-            </div>
+          <div className="text-center text-gray-400 dark:text-white">
+            © 2023 Vivanza - All rights reserved.
           </div>
         </div>
       </footer>

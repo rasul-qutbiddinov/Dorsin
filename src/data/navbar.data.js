@@ -1,6 +1,6 @@
 const navbarData = [
   { href: "/#about", label: "About" },
-  { href: "/#services", label: "Services" },
+  { href: "/#service", label: "Service" },
   { href: "/#project", label: "Project" },
   { href: "/#team", label: "Team" },
   { href: "/contact", label: "Contact" },

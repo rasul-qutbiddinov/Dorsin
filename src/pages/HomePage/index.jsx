@@ -2,12 +2,9 @@ import React from "react";
 import Header from "../../components/Header";
 import ServicesContainer from "../../container/ServicesContainer";
 import FeatureContainer from "../../container/FeatureContainer";
-import Web from "../../components/web";
 import Team from "../../container/Team";
 import Work from "../../container/Work";
-import Testimonials from "../../container/Testimonials";
 import Blog from "../../container/Blog";
-import Contact from "../../container/Contact";
 import Social from "../../container/Social";
 function HomePage() {
   return (
@@ -19,7 +16,7 @@ function HomePage() {
       />
       <Blog />
       <ServicesContainer />
-      <FeatureContainer />
+      {/* <FeatureContainer /> */}
       {/* <Web
         image="assets/images/img-1.jpg"
         title="Build your dream website today"

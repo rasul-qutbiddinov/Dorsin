@@ -3,7 +3,7 @@ import React from 'react'
 function Title({title,text}) {
   return (
     <div className="flex justify-center mx-5">
-      <div className="lg:w-2/3 space-y-5 text-center">
+      <div className="lg:w-2/3 space-y-5 text-center ">
         <h1 className="text-2xl text-gray-800 uppercase tracking-widest dark:text-white">
           {title}
         </h1>

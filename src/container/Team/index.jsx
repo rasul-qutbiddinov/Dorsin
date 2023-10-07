@@ -5,7 +5,7 @@ import Title from '../../components/Title';
 
 function Team() {
   return (
-    <section className="pt-6" id="team">
+    <section id="team">
       <div className="container">
         <Title
           title="Our Team"
